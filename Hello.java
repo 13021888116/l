@@ -1,0 +1,1 @@
+package world;public class Hello{    public static void main(String[]args){        System.out.println("hello,world");        System.out.println();        System.out.println(2+3);        System.out.println(2+3+4);        System.out.println(2.3+4.6);        System.out.print("AB"+"CD"+"EF");        System.out.println("GH");        System.out.println("SSS"+12);    }}
